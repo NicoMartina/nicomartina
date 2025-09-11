@@ -45,6 +45,10 @@
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="70" height="70"/></span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="K8s" width="70" height="70"/></span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="70" height="70"/></span>
     
     
 </p>
@@ -79,6 +83,12 @@
   <span>
     <a href="https://linkedin.com/in/nicolas-martina/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    </a>
+  </span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ <span>
+    <a href="https://discord.com/channels/@me/690963831823794227" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" width="50"/>
     </a>
   </span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
