@@ -14,9 +14,9 @@
 ## 🌟 About Me  
 🌍 I am from **Argentina**
 🎓 CS student who loves building, learning & experimenting  
-💻 Currently focusing on **Go** & **Python**  
+💻 Currently focusing on **Java** & **Go**  
 ☁️ Exploring **AWS**, **Docker**, & **Kubernetes**  
-🧩 Also comfortable with **Java** & **JavaScript**  
+🧩 Also comfortable with **Python** & **JavaScript**  
 ⚡ I can write a “Hello World” in Go, Python, Java, and JS… before breakfast.
 
 
