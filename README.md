@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A passionate CS Student learning backend and cloud development among other things. Feel free to reach out for any freelance projects!</h3>  
+<h3 align="center">A passionate CS Student learning backend and cloud development among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
 
 <!-- GIF -->
