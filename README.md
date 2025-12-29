@@ -120,22 +120,25 @@
 
 ## 📊 GitHub Insights  
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square" alt="views" />
+</p>
 
-
-
-![Views](https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=true)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=true" alt="trophies" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=77" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=77" width="43%" />
+  <img width="48%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=99" alt="stats" />
+  <img width="43%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=99" alt="langs" />
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=77" width="92%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=99" width="92%" alt="streak">
 </p>
 
 ---
