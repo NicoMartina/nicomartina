@@ -124,10 +124,6 @@
   <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square&v=RECOVERY" alt="views" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-gules-nine-39.vercel.app/?username=NicoMartina&theme=radical&no-frame=true&v=RECOVERY" alt="trophies" />
-</p>
-
 ---
 
 <p align="center">
