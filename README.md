@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=streak_fix_99" width="92%" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&theme=radical" alt="streak" width="90%">
 </p>
 
 ---
