@@ -143,11 +143,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&theme=radical" alt="streak" width="90%">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomartina&show_icons=true&locale=en&layout=compact" alt="nicomartina" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?nicomartina=nicomartina&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicomartina&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomartina&show_icons=true&locale=en" alt="nicomartina" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&" alt="nicomartina" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nicomartina=nicomartina&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
