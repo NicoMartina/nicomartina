@@ -127,19 +127,17 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=false&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=false&row=1&column=7&v=1" alt="trophies" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="langs" />
-  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="stats" />
+  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="langs" />
+  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical&v=1" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical" alt="streak" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=1" alt="streak" width="90%">
 </p>
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
