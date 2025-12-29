@@ -144,6 +144,17 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/stats.svg" />
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/langs.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/trophies.svg" />
+</p>
+
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
