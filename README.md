@@ -122,18 +122,12 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicoMartina/NicoMartina/main/assets/metrics.svg" width="90%" />
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=algolia&no-bg=true&margin-w=15" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=false&row=1&column=7" alt="trophies" />
 </p>
 
 <p align="center">
@@ -144,7 +138,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical" alt="streak" width="90%">
 </p>
-
 
 
 
