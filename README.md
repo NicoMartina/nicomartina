@@ -123,7 +123,7 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
+  <img src="https://profile-counter.glitch.me/NicoMartina/count.svg" alt="Profile views" />
 </p>
 
 <p align="left"> 
@@ -132,25 +132,17 @@
   </a> 
 </p>
 
-<p align= "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical" alt="stats" />
-</p>
-
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&theme=radical" alt="streak" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMartina&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nicomartina=nicomartina&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicomartina&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=NicoMartina&theme=radical" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nicomartina=nicomartina&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
+
 
 
 
