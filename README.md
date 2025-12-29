@@ -123,22 +123,25 @@
 
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square" alt="views" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=false&row=1&column=7&v=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=true" alt="trophies" />
 </p>
+
+<hr />
 
 <p align="center">
-  <img align="center" src="[https://github-readme-stats-git-master-nicomartinas-projects.vercel.app](https://github-readme-stats-qules-nine-39.vercel.app)/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="langs" />
-  <img align="center" src="[https://github-readme-stats-git-master-nicomartinas-projects.vercel.app](https://github-readme-stats-qules-nine-39.vercel.app)/api?username=NicoMartina&show_icons=true&locale=en&theme=radical&v=1" alt="stats" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical" alt="stats" />
+  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
 </p>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=1" alt="streak" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical" alt="streak" width="92%">
 </p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
