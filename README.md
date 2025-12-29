@@ -122,23 +122,8 @@
 
 
 
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/NicoMartina/count.svg" alt="Profile views" />
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=algolia&no-bg=true&margin-w=15" alt="trophies" />
-  </a> 
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMartina&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicoMartina&theme=radical" width="90%" />
+  <img src="https://raw.githubusercontent.com/NicoMartina/NicoMartina/main/assets/metrics.svg" width="90%" />
 </p>
 
 
