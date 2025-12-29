@@ -123,7 +123,7 @@
 
 
 
-<<p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square" alt="views" />
 </p>
 
