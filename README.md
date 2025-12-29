@@ -131,15 +131,15 @@
 ---
 
 <p align="center">
-  <img width="48%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=99" alt="stats" />
-  <img width="43%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=99" alt="langs" />
+  <img width="48%" src="https://github-readme-stats-gules-nine-39.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=fixed" alt="stats" />
+  <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=fixed" alt="langs" />
 </p>
-
-<br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=99" width="92%" alt="streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=fixed" width="92%" alt="streak" />
 </p>
+
+---
 
 ---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
