@@ -120,26 +120,14 @@
 
 ## 📊 GitHub Insights  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square" alt="views" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=true" alt="trophies" />
-</p>
-
----
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-gules-nine-39.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=fixed" alt="stats" />
-  <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=fixed" alt="langs" />
+  <img width="48%" src="https://github-readme-stats-gules-nine-39.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&v=final_fix" alt="stats" />
+  <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&v=final_fix" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=fixed" width="92%" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical&v=streak_fix_99" width="92%" alt="streak" />
 </p>
-
----
 
 ---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
