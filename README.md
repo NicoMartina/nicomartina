@@ -44,14 +44,10 @@
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/></span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="K8s" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="70" height="70"/></span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
     <span><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     
     
 </p>
