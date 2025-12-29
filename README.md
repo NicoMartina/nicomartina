@@ -129,7 +129,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical" alt="streak" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&theme=radical" alt="streak" width="90%">
 </p>
 
 
