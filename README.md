@@ -137,14 +137,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-my21vgnoe-nicomartinas-projects.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
-  <img align="center" src="https://github-readme-stats-my21vgnoe-nicomartinas-projects.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical" alt="stats" />
+  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
+  <img align="center" src="https://github-readme-stats-git-master-nicomartinas-projects.vercel.app/api?username=NicoMartina&show_icons=true&locale=en&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&theme=radical" alt="streak" width="90%">
 </p>
-
 
 
 
