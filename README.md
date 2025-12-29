@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A passionate CS Student learning backend and cloud development among other things. Feel free to reach out! I love to participate in open projects!</h3>  
+<h3 align="center">A passionate CS Student learning backend engineering and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
 
 <!-- GIF -->
@@ -143,16 +143,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&theme=radical" alt="streak" width="90%">
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomartina&show_icons=true&locale=en&layout=compact" alt="nicomartina" /></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/stats.png" />
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/langs.png" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomartina&show_icons=true&locale=en" alt="nicomartina" /></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/streak.png" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&" alt="nicomartina" /></p>
 
 
 
