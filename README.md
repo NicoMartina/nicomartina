@@ -145,13 +145,14 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/stats.svg" />
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/langs.svg" />
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/stats.png" />
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/langs.png" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NicoMartina/github-stats/main/trophies.svg" />
+  <img src="https://raw.githubusercontent.com/NicoMartina/github-profile-stats/main/streak.png" />
 </p>
+
 
 
 
