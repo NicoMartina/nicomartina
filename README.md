@@ -125,7 +125,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoMartina&theme=radical&no-frame=true&v=RECOVERY" alt="trophies" />
+  <img src="https://github-readme-stats-gules-nine-39.vercel.app/?username=NicoMartina&theme=radical&no-frame=true&v=RECOVERY" alt="trophies" />
 </p>
 
 ---
