@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90"/>
+
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A passionate CS Student learning backend engineering and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
+<h3 align="center">A CS Student about to graduate with high honorrs passionate about Java backend engineering and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
 
 <!-- GIF -->
@@ -14,9 +16,9 @@
 ## 🌟 About Me  
 🌍 I am from **Argentina**
 🎓 CS student who loves building, learning & experimenting  
-💻 Currently focusing on **Java** & **Go**  
+💻 Currently focusing on **Java** & **Spring Boot**  
 ☁️ Exploring **AWS**, **Docker**, & **Kubernetes**  
-🧩 Also comfortable with **Python** & **JavaScript**  
+🧩 Also comfortable with **Python** & **JavaScript** & **Go** 
 ⚡ I can write a “Hello World” in Go, Python, Java, and JS… before breakfast.
 
 
