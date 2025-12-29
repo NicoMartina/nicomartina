@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90"/>
-
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">A CS Student about to graduate with high honorrs passionate about Java backend engineering and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
@@ -53,6 +51,7 @@
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="70" height="70"/></span>
+    <span><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </span>
     
     
 </p>
