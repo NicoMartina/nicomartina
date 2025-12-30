@@ -29,11 +29,11 @@
 
 ### 💡 Languages  
 <p align="center">
+ <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/></span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60"/></span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/></span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/></span>
 </p>
@@ -130,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicoMartina&theme=radical&v=RECOVERY" width="92%" alt="streak" />
+  <img src="https://github-readme-stats-gules-nine-39.vercel.app/?user=NicoMartina&theme=radical&v=RECOVERY" width="92%" alt="streak" />
 </p>
 
 ---
