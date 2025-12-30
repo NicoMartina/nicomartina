@@ -135,6 +135,5 @@
 
 ---
 
----
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
