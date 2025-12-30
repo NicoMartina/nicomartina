@@ -129,10 +129,6 @@
   <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&v=RECOVERY" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-gules-nine-39.vercel.app/?user=NicoMartina&theme=radical&v=RECOVERY" width="92%" alt="streak" />
-</p>
-
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
