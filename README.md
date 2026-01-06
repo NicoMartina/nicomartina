@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A CS Student about to graduate with high honorrs passionate about Java backend engineering and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
+<h3 align="center">A CS Student about to graduate with high honors passionate about Java backend engineering and Memory Management and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
 
 <!-- GIF -->
