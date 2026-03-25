@@ -16,7 +16,7 @@
 🎓 CS graduate who loves building, learning & experimenting  
 💻 Currently focusing on **Java** & **Spring Boot**  
 ☁️ Exploring **Blockchain**, **Etherum**, & **Solidity**  
-🧩 Also comfortable with **Python** & **JavaScript** & **Go** 
+🧩 Also comfortable with **Python** & **JavaScript** & **Go**  
 ⚡ I can write a “Hello World” in Java, Go, Solidty, Python, and JavaScript… before breakfast.
 
 
