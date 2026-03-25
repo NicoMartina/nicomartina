@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A CS Student about to graduate with high honors passionate about Java backend engineering and Memory Management and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
+<h3 align="center">A CS graduate with high honors passionate about Java backend engineering, Blockchain Development, memory management and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
  
 
 <!-- GIF -->
@@ -12,12 +12,12 @@
 
 
 ## 🌟 About Me  
-🌍 I am from **Argentina**
-🎓 CS student who loves building, learning & experimenting  
+🌍 I am **Argentinian** & **Swiss**
+🎓 CS graduate who loves building, learning & experimenting  
 💻 Currently focusing on **Java** & **Spring Boot**  
-☁️ Exploring **AWS**, **Docker**, & **Kubernetes**  
+☁️ Exploring **Blockchain**, **Etherum**, & **Solidity**  
 🧩 Also comfortable with **Python** & **JavaScript** & **Go** 
-⚡ I can write a “Hello World” in Go, Python, Java, and JS… before breakfast.
+⚡ I can write a “Hello World” in Java, Go, Solidty, Python, and JavaScript… before breakfast.
 
 
 
@@ -33,6 +33,8 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60"/></span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" height="60"/></span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/></span>
@@ -41,7 +43,11 @@
 ### 🛠️ Tools & Cloud  
 <p align="center">
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundry/foundry-original-wordmark.svg" alt="foundry" width="70" height="70"/></span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remixide/remixide-original-wordmark.svg" alt="remixide" width="70" height="70"/></span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="70" height="70"/> </span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="70" height="70"/></span>
