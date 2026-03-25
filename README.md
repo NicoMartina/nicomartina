@@ -44,10 +44,6 @@
 <p align="center">
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundry/foundry-original-wordmark.svg" alt="foundry" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remixide/remixide-original-wordmark.svg" alt="remixide" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="70" height="70"/> </span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="70" height="70"/></span>
