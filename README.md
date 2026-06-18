@@ -1,137 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">A CS graduate with high honors passionate about Java backend engineering, Blockchain Development, memory management and operating systems among other things. Feel free to reach out! I love to participate in open projects!</h3>  
- 
+<h1 align="center">Hi, I'm Nico 👋</h1>
+<h3 align="center">Backend Software Engineer — Java / Spring Boot</h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-
-
-
-
-
-
-## 🌟 About Me  
-🌍 I am **Argentinian** & **Swiss**
-🎓 CS graduate who loves building, learning & experimenting  
-💻 Currently focusing on **Java** & **Spring Boot**  
-☁️ Exploring **Blockchain**, **Etherum**, & **Solidity**  
-🧩 Also comfortable with **Python** & **JavaScript** & **Go**  
-⚡ I can write a “Hello World” in Java, Go, Solidty, Python, and JavaScript… before breakfast.
-
-
-
+<p align="center">
+  Building production backend systems in Java & Spring Boot, with a growing focus on
+  distributed systems, blockchain-based architectures, and clean API design.
+</p>
 
 ---
 
+### 🧭 About Me
 
-## 🛠️ Tech Stack  
-
-### 💡 Languages  
-<p align="center">
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/></span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60"/></span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" height="60"/></span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/></span>
-</p>
-
-### 🛠️ Tools & Cloud  
-<p align="center">
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="70" height="70"/> </span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/></span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    
-    
-    
-</p>
-
-
-
-
+- 🛠️ Backend engineer working primarily in **Java**, **Spring Boot**, and **PostgreSQL**, currently maintaining and evolving a production system end-to-end (API design, data modeling, deployment).
+- 🔗 Actively expanding into **blockchain & Web3 development** — smart contract fundamentals (Solidity), Ethereum/EVM concepts, and how backend systems integrate with on-chain data.
+- 🧱 Comfortable across the stack when needed: **TypeScript/React** on the frontend, **Python** and **Go** for scripting and systems work.
+- 📚 CS graduate (high honors) with particular interest in memory management, operating systems, and the lower-level "why" behind the frameworks I use daily.
+- 🌍 Based in Argentina, Argentinian & Swiss.
+- 🤝 Open to collaborating on backend, distributed systems, or blockchain-adjacent open source projects.
 
 ---
 
-## 🌱 Currently Learning  
+### 🧰 Tech I work with
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
+**Backend & Data**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <span>
-    <a href="https://linkedin.com/in/nicolas-martina/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- <span>
-    <a href="https://discord.com/channels/@me/690963831823794227" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord" width="50"/>
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="mailto:nicolas.martina69@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="https://github.com/NicoMartina" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/>
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="https://www.instagram.com/nicomartina__/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-    </a>
-  </span>
-</p>
-
-
-
+**Blockchain**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📫 Let's connect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square&v=RECOVERY" alt="views" />
+  <a href="https://linkedin.com/in/nicolas-martina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nicolas.martina69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-gules-nine-39.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&count_private=true&v=RECOVERY" />
-  <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&v=RECOVERY" />
-</p>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
