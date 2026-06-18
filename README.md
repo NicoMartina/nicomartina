@@ -59,6 +59,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&hide_border=true" height="165"/>
 </p>
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-gules-nine-39.vercel.app/api?username=NicoMartina&show_icons=true&theme=radical&count_private=true&v=RECOVERY" />
+  <img width="43%" src="https://github-readme-stats-gules-nine-39.vercel.app/api/top-langs?username=NicoMartina&show_icons=true&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&v=RECOVERY" />
+</p>
+
 ---
 
 ### 📫 Let's connect
