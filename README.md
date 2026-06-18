@@ -54,10 +54,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMartina&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMartina&hide_border=true" height="165"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NicoMartina&label=Profile%20views&color=fe428e&style=flat-square&v=RECOVERY" alt="views" />
 </p>
+
+***
 
 
 <p align="center">
